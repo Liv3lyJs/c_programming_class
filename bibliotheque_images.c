@@ -1,7 +1,6 @@
 /********
 Fichier: bibliotheque_images.c
-Auteurs: Domingo Palao Munoz
-         Charles-Antoine Brunet
+Auteurs: Jean-Sebastien Giroux
 Date: 28 octobre 2023
 Description: Fichier de distribution pour GEN145.
 ********/
